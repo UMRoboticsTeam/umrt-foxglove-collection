@@ -1,0 +1,9 @@
+[submodule "umrt-foxglove-cat-bop"]
+	path = umrt-foxglove-cat-bop
+	url = https://github.com/UMRoboticsTeam/umrt-foxglove-cat-bop.git
+[submodule "umrt-foxglove-gps-tracker"]
+	path = umrt-foxglove-gps-tracker
+	url = https://github.com/UMRoboticsTeam/umrt-foxglove-gps-tracker.git
+[submodule "umrt-foxglove-encoder-manager"]
+	path = umrt-foxglove-encoder-manager
+	url = https://github.com/UMRoboticsTeam/umrt-foxglove-encoder-manager
