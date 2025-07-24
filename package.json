@@ -1,0 +1,10 @@
+{
+    "name": "umrt-foxglove-collection",
+    "version": "1.0.0",
+    "scripts": {
+        "install-all": "npm run target-all -- npm install",
+        "local-install-all": "npm run target-all -- npm local-install",
+        "build-all": "npm run target-all -- npm run build || true",
+        "target-all": "node target-all.js"
+    }
+}
